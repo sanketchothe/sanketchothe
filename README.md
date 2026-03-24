@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently Student of Computer Science and Engineering\n
+I'm Currently Student of Computer Science and Engineering.
 I'm Currently Leaning Data Science
 
 ## 🌐 Socials:
