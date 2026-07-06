@@ -1,8 +1,12 @@
 # 💫 About Me:
 I'm a data science enthusiast passionate about transforming raw data into meaningful insights and intelligent solutions. My work focuses on building machine learning models, analyzing datasets, and creating data-driven projects that solve real-world problems — from predictive analytics and recommendation systems to AI-powered applications.
+
 🔭 Currently working on machine learning and data analysis projects
+
 🌱 Always exploring new tools, algorithms, and AI technologies
+
 ⚡ Fun fact: I enjoy turning complex data into simple, actionable insights
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-chothe-0369a8290?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chothesanket303@gmail.com) 
 
