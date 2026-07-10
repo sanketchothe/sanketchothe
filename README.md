@@ -27,6 +27,15 @@ I'm a Computer Science undergraduate passionate about **data science, machine le
 
 ## 🏆 Featured Projects
 
+<p align="center">
+  <a href="https://github.com/sanketchothe/rag-ai-teaching-assistant">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=sanketchothe&repo=rag-ai-teaching-assistant&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=C9D1D9&icon_color=7DD3FC" alt="RAG Based AI Teaching Assistant"/>
+  </a>
+  <a href="https://github.com/sanketchothe/california-house-price-ml">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=sanketchothe&repo=california-house-price-ml&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=C9D1D9&icon_color=7DD3FC" alt="House Price Prediction"/>
+  </a>
+</p>
+
 | 🎓 RAG Based AI Teaching Assistant<br>A RAG-based assistant that transcribes lecture videos, chunks and embeds text, and uses an LLM to answer questions from lecture content.<br>[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanketchothe/rag-ai-teaching-assistant)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) | 🏠 House Price Prediction<br>An ML web app predicting real-time California house prices using a Random Forest Regressor.<br>[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanketchothe/california-house-price-ml)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
 |---|---|
 
